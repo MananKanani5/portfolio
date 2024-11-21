@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #003fae;
+  --secondary: #0c182d;
+}
+
+#root {
+  overflow-x: hidden;
+}
+
+.no-scroll {
+  overflow: hidden;
+  height: 100vh;
+}
+
+* {
+  font-family: poppins;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--secondary);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--primary);
+}

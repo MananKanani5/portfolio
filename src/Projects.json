@@ -1,0 +1,77 @@
+[
+  {
+    "id": 0,
+    "title": "BlogIt",
+    "slug": "blogit",
+    "imgLink": "https://imagizer.imageshack.com/img924/8938/fY1WJJ.png",
+    "description": "BlogIt is a dynamic blogging platform designed to offer a seamless and intuitive user experience. It allows users to create, edit, and publish blogs with ease. The platform features a rich text editor that supports multimedia, including images and videos, and provides a variety of customizable themes to enhance the overall aesthetics of each blog post. BlogIt also includes a user-friendly interface for managing content, with real-time previews and automatic saving to prevent data loss. Built with modern technologies such as React for the frontend, Node.js and Express for the backend, and MongoDB for database management, the platform ensures fast, reliable performance. Tailwind CSS is used for styling, enabling a clean, responsive design that adapts perfectly to both desktop and mobile devices. Whether you're an individual blogger or part of a larger content team, BlogIt empowers you to share your voice and engage with an online audience effectively.",
+    "techStack": ["ejs", "Tailwind CSS", "Node.js", "Express", "MongoDB"],
+    "githubLink": "https://github.com/MananKanani5/blogit",
+    "previewLink": "https://blogiit-e3bc98a44335.herokuapp.com/",
+    "gallery": [
+      "https://imagizer.imageshack.com/img924/6913/LLt0vh.png",
+      "https://imagizer.imageshack.com/img922/2667/L4mkFY.png",
+      "https://imagizer.imageshack.com/img922/6567/bluDLp.png",
+      "https://imagizer.imageshack.com/img924/6043/N00B0h.png",
+      "https://imagizer.imageshack.com/img924/4572/8PzkZR.png",
+      "https://imagizer.imageshack.com/img924/6726/ZSHEke.png",
+      "https://imagizer.imageshack.com/img923/4939/qLBscK.png",
+      "https://imagizer.imageshack.com/img924/5264/uaR1Yi.png"
+    ]
+  },
+  {
+    "id": 1,
+    "title": "MoneyMate",
+    "slug": "moneymate",
+    "imgLink": "https://imagizer.imageshack.com/img924/8717/mO8TUj.png",
+    "description": "MoneyMate is a comprehensive personal finance management tool designed to help users track, analyze, and optimize their expenses. The platform offers intuitive features for logging daily expenses, categorizing transactions, and visualizing spending patterns through detailed charts and graphs. It comes with a user-friendly dashboard that includes key financial insights, such as total spending, category-wise distribution, and weekly trends, all displayed in real-time. Built with modern web technologies like React for the frontend and Node.js with Express for the backend, MoneyMate ensures smooth performance and a highly interactive experience. The application leverages MongoDB for robust data storage, allowing users to securely store and access their financial data. With Chart.js integration, users can view their financial data in engaging visual formats, making it easier to identify spending habits. Future enhancements include AI-powered financial advice and savings tips tailored to user behavior, making MoneyMate not just a tracker, but a true companion for achieving financial goals. Fully responsive and optimized for both desktop and mobile, MoneyMate is the perfect tool for individuals looking to take control of their finances.",
+    "techStack": [
+      "ejs",
+      "Bootstrap",
+      "chart.js",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "githubLink": "https://github.com/MananKanani5/moneymate",
+    "previewLink": "https://moneymate-preview.com",
+    "gallery": [
+      "https://imagizer.imageshack.com/img924/6856/8lKBgA.jpg",
+      "https://imagizer.imageshack.com/img923/2829/vUcsSz.png",
+      "https://imagizer.imageshack.com/img923/3966/8X0xKM.png",
+      "https://imagizer.imageshack.com/img922/1503/UBc1Ve.png"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "PawFinder",
+    "slug": "pawfinder",
+    "imgLink": "https://imagizer.imageshack.com/img924/1315/Kklk7v.png",
+    "description": "PawFinder is a compassionate and user-friendly responsive web app dedicated to addressing the heart-wrenching issue of lost pets. At the heart of PawFinder is a contemporary web development stack, combining the power of HTML, CSS, and JavaScript to craft an interface. In the backend, I've used PHP to ensure the secure handling of data, and I rely on the reliability of a MySQL database to safeguard the precious information collected. The result is a web app that offers a seamless and optimized viewing experience on a wide range of devices, including desktop computers, tablets, and mobile phones. Whether you're searching for a lost pet from the comfort of your home or on the go, PawFinder is there to assist. PawFinder is more than just technology; it's a movement, a collective effort to bring solace and joy back to pet owners who have lost their cherished companions. I understand the deep distress that comes with a lost pet, and my platform is designed to streamline the process of reuniting them with their loving families. It's a digital space where empathy and support thrive.",
+    "techStack": ["HTML", "CSS", "JavaScript", "PHP", "MYSQL"],
+    "githubLink": "https://github.com/MananKanani5/PawFinder",
+    "previewLink": "https://pawfinder-preview.com",
+    "gallery": [
+      "https://imagizer.imageshack.com/img922/483/8M2Ovx.png",
+      "https://imagizer.imageshack.com/img924/9967/gQMFY1.png",
+      "https://imagizer.imageshack.com/img924/1642/xtdSVz.png",
+      "https://imagizer.imageshack.com/img922/3632/ctF2nQ.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "PawFinder",
+    "slug": "pawfinder",
+    "imgLink": "https://imagizer.imageshack.com/img924/1315/Kklk7v.png",
+    "description": "PawFinder is a compassionate and user-friendly responsive web app dedicated to addressing the heart-wrenching issue of lost pets. At the heart of PawFinder is a contemporary web development stack, combining the power of HTML, CSS, and JavaScript to craft an interface. In the backend, I've used PHP to ensure the secure handling of data, and I rely on the reliability of a MySQL database to safeguard the precious information collected. The result is a web app that offers a seamless and optimized viewing experience on a wide range of devices, including desktop computers, tablets, and mobile phones. Whether you're searching for a lost pet from the comfort of your home or on the go, PawFinder is there to assist. PawFinder is more than just technology; it's a movement, a collective effort to bring solace and joy back to pet owners who have lost their cherished companions. I understand the deep distress that comes with a lost pet, and my platform is designed to streamline the process of reuniting them with their loving families. It's a digital space where empathy and support thrive.",
+    "techStack": ["HTML", "CSS", "JavaScript", "PHP", "MYSQL"],
+    "githubLink": "https://github.com/MananKanani5/PawFinder",
+    "previewLink": "https://pawfinder-preview.com",
+    "gallery": [
+      "https://imagizer.imageshack.com/img922/483/8M2Ovx.png",
+      "https://imagizer.imageshack.com/img924/9967/gQMFY1.png",
+      "https://imagizer.imageshack.com/img924/1642/xtdSVz.png",
+      "https://imagizer.imageshack.com/img922/3632/ctF2nQ.png"
+    ]
+  }
+]
